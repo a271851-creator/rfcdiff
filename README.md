@@ -1,6 +1,4 @@
-# rfcdiff
-
-[rfcdiff web service](https://author-tools.ietf.org/iddiff) | [rfcdiff script](https://github.com/ietf-tools/rfcdiff/raw/main/rfcdiff)
+# rfcckutr
 
 The purpose of this program is to compare two versions of an
 internet-draft, and as output produce a diff in one of several
@@ -14,9 +12,9 @@ In all cases, internet-draft headers and footers are stripped before generating 
 
 ## Usage
 ```
-    rfcdiff [options] file1 file2
+     file1 file2
 
-    rfcdiff takes two RFCs or Internet-Drafts in text form as input, and
+    Takes two RFCs or Internet-Drafts in text form as input, and
     produces output which indicates the differences found in one of various
     forms, controlled by the options listed below. In all cases, page
     headers and page footers are stripped before looking for changes.
