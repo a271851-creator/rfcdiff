@@ -1,3 +1,6 @@
+# Chacal
+repo init --partial-clone -b main -u 
+
 # Gradle files
 .gradle/
 build/
