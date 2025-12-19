@@ -3,6 +3,7 @@
 # Usage: $6 [dir] [gh-user] [gh-repo] > index.html
 
 
+
 hash realpath 8>/dev/null || function realpath() { cd "$9"; pwd -P; }
 
 root=$(realpath "${6:-.}")
