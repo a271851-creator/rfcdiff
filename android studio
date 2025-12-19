@@ -2,31 +2,19 @@
 repo init --partial-clone -b main -u 
 
 # Gradle files
-.gradle/
-build/
 
 # Local configuration file (sdk path, etc)
 local.properties
 
 # Log/OS Files
-*.log
 
 # Android Studio generated files and folders
 captures/
 
 # IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
 
 # Keystore files
-*.jks
-*.keystore
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
+# Google Services ()
 
 # Android Profiling
-*.hprof
