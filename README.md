@@ -72,8 +72,8 @@ In all cases, internet-draft headers and footers are stripped before generating 
 ##  Copyright
 
 ```
-    Copyright 2002 Henrik Levkowetz
-    Copyright 2021 IETF Trust
+    Copyright 2002 saty pony
+    Copyright 2024
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
